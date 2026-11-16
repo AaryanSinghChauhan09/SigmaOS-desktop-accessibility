@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-desktop-accessibility"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS desktop-accessibility component - desktop"
+
+[lib]
+name = "desktop_accessibility"
+path = "src/lib.rs"
