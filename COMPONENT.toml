@@ -3,7 +3,7 @@ name = "SigmaOS-desktop-accessibility"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "desktop-accessibility component"
+description = "desktop accessibility"
 upstream = []
 
 [contract]
